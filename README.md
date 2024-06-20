@@ -19,6 +19,10 @@ To built a Bot, easy-to-use news search tool, that makes it simple to retrieve i
   - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 
 # Project Structure :
+<br>**Basic structure :**<br>
+![](Images/structure.png)
+
+# Files created
   - main.py: The main Streamlit application script.
   - vectorEmbedding.pkl: A pickle file to store the FAISS index.
   - .env: Configuration file for storing your OpenAI API key.
