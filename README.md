@@ -1,6 +1,6 @@
 # **Project Name**        - News-Research-Tool
 # **Domain**              - Finance
-##### **Project Type**    - 
+# **Project Type**    - 
 ##### **Contribution**    - Individual
 ##### **Tools used**      - 
 
