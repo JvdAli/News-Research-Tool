@@ -23,7 +23,7 @@ To built a Bot, easy-to-use news search tool, that makes it simple to retrieve i
 ![](Images/structure.png)
 
 <br>**Actual workflow :**<br>
-![](Images/structure.png)
+![](Images/work flow.png)
 
 # Files created
   - main.py: The main Streamlit application codes
