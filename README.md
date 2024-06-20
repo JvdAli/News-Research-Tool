@@ -23,12 +23,13 @@ To built a Bot, easy-to-use news search tool, that makes it simple to retrieve i
 ![](Images/structure.png)
 
 <br>**Actual workflow :**<br>
-![](Images/work flow.png)
+![](Images/structure.png)
 
 # Files created
-  - main.py: The main Streamlit application script.
+  - main.py: The main Streamlit application codes
   - vectorEmbedding.pkl: A pickle file to store the FAISS index.
   - .env: Configuration file for storing your OpenAI API key.
+  - Images folder- to store images
 
 # How to use : Example
 1. Run the Streamlit app by executing:
