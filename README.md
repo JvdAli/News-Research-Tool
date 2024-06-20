@@ -1,8 +1,13 @@
-# **Project Name**        - News-Research-Tool
-# **Domain**              - Finance
-# **Project Type**    - 
-##### **Contribution**    - Individual
-##### **Tools used**      - 
+##### **Project Name**        - News-Research-Tool
+##### **Domain**              - Finance
+##### **Project Type**        - 
+##### **Contribution**        - Individual
+##### **Tools used**          - 
+
+  - LangChain
+  - embedding vector using OpenAI
+  - FAISS
+  - Streamlit application : 
 
   - LangChain
   - embedding vector using OpenAI
