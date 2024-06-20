@@ -9,7 +9,7 @@ Interact with the LLM's (Chatgpt) by inputting queries and receiving answers alo
 
 
 # Project Structure
-main.py: The main Streamlit application script.
+**main.py:** The main Streamlit application script.
 vectorEmbedding.pkl: A pickle file to store the FAISS index.
 .env: Configuration file for storing your OpenAI API key.
 
