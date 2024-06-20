@@ -1,3 +1,13 @@
+# **Project Name**        - Potato Leaf Disease Prediction
+
+##### **Domain**          - Agriculture
+##### **Project Type**    - Deep Learning-Classification
+##### **Contribution**    - Individual
+
+
+
+# **Project Summary -**
+
 <!-- PROJECT DESCRIPTION -->
 ## <br>**Project description**
 # News-Research-Tool
