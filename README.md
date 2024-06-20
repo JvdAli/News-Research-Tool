@@ -9,10 +9,6 @@
   - FAISS
   - Streamlit application : 
 
-  - LangChain
-  - embedding vector using OpenAI
-  - FAISS
-  - Streamlit application : 
 
 <!-- PROJECT DESCRIPTION -->
 ## <br>**Project description**
